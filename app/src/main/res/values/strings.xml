@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SMS Gateway 2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="WelcomeLabel">WELCOME</string>
+    <string name="SMSGatewayLabel">SMS Gateway Server</string>
+    <string name="AutoReplyLabel">SMS Auto Reply</string>
+    <string name="AboutLabel">About</string>
+    <string name="title_activity_smsgateway">SMSGatewayActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ipAddress">This Device IP Address :</string>
+    <string name="labelButtonStart">Start Gateway Server</string>
+    <string name="labelStopButton">Stop Gateway Server</string>
+    <string name="title_activity_smsauto_reply">SMSAutoReply</string>
+    <string name="labelAutoRepStart">Start Auto Reply</string>
+    <string name="labelAutoRepStop">Stop Auto Reply</string>
+    <string name="labelAutoRepSettings">Setting</string>
+    <string name="labelAutoRepMessage">Auto Reply Message</string>
+
+    <string name="saveSetting">Save</string>
+</resources>
